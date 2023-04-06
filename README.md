@@ -2,7 +2,9 @@
 
 ## live project link
 
+[livelink](https://jagtapnimisha2.github.io/Discord/)
 [live link](https://roaring-fox-268215.netlify.app/)
+
 
 ## Technologies
 ```
